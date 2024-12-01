@@ -37,8 +37,8 @@ a{
     transition:border 1s ease-in-out 0s
 }
 .sideimg{
-    height:65%;
-    width:490px;
+    height:77%;
+    width:550px;
     background-image: url("sideimg.png");
     background-size: cover;
     position: absolute;
