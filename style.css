@@ -38,7 +38,7 @@ a{
 }
 .sideimg{
     height:60%;
-    width:430px;
+    width:450px;
     background-image: url("sideimg.png");
     background-size: cover;
     position: absolute;
