@@ -40,7 +40,7 @@ a{
     height:60%;
     width:430px;
     background-image: url("sideimg.png");
-    background-size: contain;
+    background-size: cover;
     position: absolute;
     right:50px;
     top:200px;
